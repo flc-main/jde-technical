@@ -1,4 +1,5 @@
 # **Junior Data Engineer: Take-Home Assignment**
+*Due Date: 20th March*
 ## Overview
 
 You will build a small data pipeline and analytics dataset using Python and SQL.
@@ -33,6 +34,7 @@ You will recive 3 datasets:
 ### > a. farmers.csv
 ### > b. products.csv
 ### > c. orders.csv
+### > d. order_items.csv
 
 ## **Assignment**
 
@@ -158,12 +160,13 @@ app/dashboard.py
 Your repository should look as follows:
 
 ```bash
-data-engineer-test/
+jde-technical/
 │
 ├── data/
-│   ├── customers.csv
+│   ├── farmers.csv
 │   ├── products.csv
-│   └── orders.csv
+│   ├── orders.csv
+│   └── order_items.csv
 │
 ├── notebooks/
 │   └── data_exploration.ipynb
@@ -188,3 +191,5 @@ data-engineer-test/
 │
 └── README.md
 ```
+
+**File types and structure can vary as you see if. This is a guide on what is deliverable.**

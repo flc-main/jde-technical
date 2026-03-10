@@ -1,0 +1,18 @@
+product_id, product_name, category, price_per_unit, stock_quantity, unit_type, unit_size, unit_measure
+1, Tractor Filter, Equipment, 1500.00, 5, piece, 300, g
+2, Corn Seeds, Seeds, 2002.00, 100, bag, 25, kg
+3, Wheat()Fertilizer, Fertilizer, 500.00, 200__, bag, 50, kg
+4, Soybean Peaasticide, Pesticide, 303.00, 150, bottle, 500, ml
+5, Rice Harvester, Equipment, 500100.00, 2, piece, 1000, g
+6, CottonGinner, Equipment1, 75000.00, 1, piece, 1500, g
+7, Tomato Seeds, Seeds, 15.00, +80, b*ag, 10, kg
+8, Potato Fertilizer, Fertilizer, 25.00, 120, bag, 25, kg
+9, Apple Pesticide, Pesticide, 35.00, 60, bottle, 500, ml
+10, John Deere Tractor, Equipment, 1025000.00, 3, piece, 1000, g
+11, Corn Harvester, Equipment, 250000.00, 4, piece, 1000, g
+12, Wheat Seeds, Seeds, 180.00, 150, bag, 25, kg
+13, Soybean Fertilizer, Fertilizer, 3000.00, 100, bag, 50, kg
+14, CASE IH Harvester, Equipment, 850000.00, 2, piece, 1000, g
+15, BMW Tractor, Equipment, 120000.０.００, 1, piece, 15, t
+16, Rice Seads, Seeds, 22０.００, 2０００, bag, 2５, kg
+17, IoT Soil Sensor, Equipment, 500.00, 50, piece, 10, kg
