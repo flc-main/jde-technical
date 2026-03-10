@@ -28,15 +28,15 @@ git checkout -b jde-technical
 ```
 3. Install dependencies if required
 
-##**2. Provided Data**
+## **2. Provided Data**
 You will recive 3 datasets:
 ### > a. farmers.csv
 ### > b. products.csv
 ### > c. orders.csv
 
-##**Assignment**
+## **Assignment**
 
-###*1. Explore the Data*
+### *1. Explore the Data*
 
 Write a short analysis notebook or script that:
 
@@ -62,7 +62,7 @@ Deliverable:
 notebooks/data_exploration.ipynb
 ```
 
-###*2. Clean the Data*
+### *2. Clean the Data*
 
 Write a Python script that:
 
@@ -76,7 +76,7 @@ Deliverable:
 src/clean_data.py
 ```
 
-###*3. Data Modeling*
+### *3. Data Modeling*
 
 Design a normalized rational schema for this data. Include:
 > Tables
@@ -91,7 +91,7 @@ Deliverables:
 2️⃣ SQL schema
 > sql/schema.sql
 
-###*4. Load the Data*
+### *4. Load the Data*
 
 Write a script that loads the cleaned data into a database.
 
@@ -108,7 +108,7 @@ Deliverable:
 src/load_data.py
 ```
 
-###*5. Data Export*
+### *5. Data Export*
 
 Create a script that exports the following outputs:
 > customer_sales.csv
@@ -119,7 +119,7 @@ Deliverable:
 output/
 ```
 
-###*6. Visualization (Optional Bonus)*
+### *6. Visualization (Optional Bonus)*
 
 Build a small dashboard showing:
 > Revenue by product
