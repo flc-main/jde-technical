@@ -28,7 +28,7 @@ git checkout -b jde-technical
 ```
 3. Install dependencies if required
 
-## **2. Provided Data**
+## **Provided Data**
 You will recive 3 datasets:
 ### > a. farmers.csv
 ### > b. products.csv
