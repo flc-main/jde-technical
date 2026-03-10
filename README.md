@@ -1,4 +1,4 @@
-# **Junior Data Engineer Take-Home Assignment**
+# **Junior Data Engineer: Take-Home Assignment**
 ## Overview
 
 You will build a small data pipeline and analytics dataset using Python and SQL.
@@ -17,7 +17,7 @@ The goal of this exercise is to evaluate your ability to:
 
 > Present data insights
 
-> **Please commit your work regularly to show your development process. Upon completion, replace this README your own description of the tasks completed:**
+**Please commit your work regularly to show your development process. Upon completion, replace this README your own description of the tasks completed:**
 
 ## **Setup**
 
