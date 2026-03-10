@@ -6,11 +6,9 @@
 
 Time Expectation
 
-Expected completion time:
+Expected approval timeline:
 
-3 - 5 hours
-
-Please do not spend more than 5 hours.
+48 hours from recieving GitHub access
 
 Submit by sharing your GitHub repository link
 
@@ -41,7 +39,6 @@ The goal of this exercise is to evaluate your ability to:
 ```bash
 git checkout -b jde-technical
 ```
-3. Install dependencies if required
 
 ## **Provided Data**
 You will recive 4 datasets:
@@ -228,7 +225,7 @@ jde-technical/
 └── README.md
 ```
 
-**File types and structure can vary as you see if. This is a guide on what is deliverable.**
+**File types and structure can vary as you see fit. This is a guide on what is deliverable.**
 
 ## **Evaluation Criteria**
 | Area               | What We Look For               |
