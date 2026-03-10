@@ -81,8 +81,11 @@ src/clean_data.py
 ### *3. Data Modeling*
 
 Design a normalized rational schema for this data. Include:
+
 > Tables
+
 > Any keys (primary or foreign)
+
 > Relationships
 
 Deliverables:
@@ -98,11 +101,15 @@ Deliverables:
 Write a script that loads the cleaned data into a database.
 
 Supported options:
+
 > SQLite
+
 > PostgreSQL
 
 Your script should:
+
 > Create tables
+
 > Insert cleaned data
 
 Deliverable:
@@ -113,7 +120,9 @@ src/load_data.py
 ### *5. Data Export*
 
 Create a script that exports the following outputs:
+
 > customer_sales.csv
+
 > product_sales.csv
 
 Deliverable:
@@ -124,13 +133,19 @@ output/
 ### *6. Visualization (Optional Bonus)*
 
 Build a small dashboard showing:
+
 > Revenue by product
+
 > Revenue by country
+
 > Top customers
 
 Suggested tools:
+
 > Streamlit
+
 > Dash
+
 > Flask + Chart.js
 
 Deliverable:
