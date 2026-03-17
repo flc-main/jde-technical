@@ -4,25 +4,35 @@
 
 *Due Date: 20th March*
 
-Time Expectation
+### Time Expectation
 
-Expected approval timeline:
-
-48 hours from recieving GitHub access.
+Expected turnaround time: 48 hours from receiving GitHub access.
 
 Expected completion time: 4–6 hours.
 
-Please do not spend more than 6 hours on this assignment. 
-We are not expecting a perfect production system here, we are more interested in your thinking, data reasoning, and code structure.
+Please do not spend more than 6 hours on this assignment. We are not expecting a perfect production system. We are more interested in your thinking, data reasoning, and code structure.
 
-You may use any tools or libraries you are comfortable with. 
-If you use AI tools (ChatGPT, Copilot, etc.), please note where they assisted you.
+You may use any tools or libraries you are comfortable with. If you use AI tools such as ChatGPT or Copilot, please note where they assisted you.
 
-Submit this by:
-1. Cloning this repository (https://github.com/FLC-Technologies/jde-technical.git) as your stater repository
-2. Create a new private repository from this starter repository, complete the assignment there, and share access with us for review.
-3. Please make sure to share your GitHub repository link with us via email.
-4. NB: PLEASE DO NOT push your work back to the starter repository. 
+Submission Instructions
+
+Please follow the process below:
+
+Clone this starter repository:
+
+```bash
+https://github.com/FLC-Technologies/jde-technical.git
+```
+
+Create a new private repository using this repository as your starter repository.
+
+Complete the assignment in your new private repository.
+
+Share access to the repository with us (sean@farmlinkcapital.co.za, devstack@farmlinkcapital.co.za) for review.
+
+Email us your GitHub repository link once complete (sean@farmlinkcapital.co.za, devstack@farmlinkcapital.co.za).
+
+Important: Please do not push your work back to the starter repository.
 
 ## Objectives
 
@@ -54,23 +64,9 @@ Include a section in your README explaining:
 
 ## **Setup**
 
-Either:
+Clone the starter repository and use it as the base for your submission.
 
-1. Clone this repository (https://github.com/FLC-Technologies/jde-technical.git) as your stater repository
-
-2. Create a new private repository from this starter repository, complete the assignment there, and share access with us for review.
-
-3. Please make sure to share your GitHub repository link with us via email.
-
-4. NB: PLEASE DO NOT push your work back to the starter repository.
-
-Or:
-
-1. Clone or fork this repository provided.
-2. Create a new branch:
-```bash
-git checkout -b jde-technical
-```
+You may use any tools, libraries, or frameworks you are comfortable with.
 
 ## **Provided Data**
 You will receive 4 datasets:
