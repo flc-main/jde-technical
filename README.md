@@ -46,7 +46,7 @@ The goal of this exercise is to evaluate your ability to:
 
 > Analyze and clean messy data
 
-> Design normalized relational tables
+> Design database schema or table relations
 
 > Transform and load data
 
@@ -127,7 +127,7 @@ src/clean_data.py
 
 ### *3. Data Modeling*
 
-Design a normalized relational schema for this data. Include:
+Design a schema for this data. Include:
 
 > Tables
 
