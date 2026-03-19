@@ -40,7 +40,7 @@ Important: Please do not push your work back to the starter repository.
 
 ## Objectives
 
-You will build a small data pipeline and analytics dataset using Python and SQL.
+You will build a small data pipeline and analytics dataset view.
 
 The goal of this exercise is to evaluate your ability to:
 
