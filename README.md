@@ -16,7 +16,7 @@ Please do not spend more than 6 hours on this assignment. We are not expecting a
 
 You may use any tools or libraries you are comfortable with. If you use AI tools such as ChatGPT or Copilot, please note where they assisted you.
 
-Submission Instructions
+## Submission Instructions
 
 Please follow the process below:
 
